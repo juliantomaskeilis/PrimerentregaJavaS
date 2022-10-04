@@ -1,0 +1,18 @@
+* {
+    background-color: lightsteelblue;
+}
+
+.construccion {
+    background: rgb(100, 223, 108);
+    background: radial-gradient(circle, rgba(100, 223, 108, 1) 0%, rgba(230, 53, 53, 1) 50%, rgba(69, 88, 252, 1) 100%);
+    text-align: center;
+    padding: 50px;
+    color: white;
+    border: solid;
+}
+
+.foto {
+    border: solid;
+    color: white;
+    margin-left: 100px;
+}
